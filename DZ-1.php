@@ -4,7 +4,7 @@
 ?><!DOCTYPE html>
 <html>
 <head>
-    <title>Домашняя работа №1</title>
+    <title>DZ-1</title>
 </head>
 <body">
 <h2> Задание 1</h2>
